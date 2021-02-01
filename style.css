@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Poppins,sans-serif;
+}
+.digital-clock{
+    text-align: center;
+    background-color: rgb(159, 114, 201);
+    color: white;
+    max-width:40%;
+    margin: 0 auto;
+    margin-top: 150px;
+}
+.clock-title{
+font-size:25px;
+padding:30px;
+}
+.clock-timing{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+
+.clock-time{
+    padding: 10px;
+    font-size:19px;
+    margin-bottom: 20px;
+}
